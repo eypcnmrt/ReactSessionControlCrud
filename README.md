@@ -1,4 +1,4 @@
-# TCDD Yemek Tarifleri
+# TCDD YEMEK TARİFLERİ
 
 TCDD Yemek Tarifleri, kullanıcı girişi ve session token kontrolü ile güvenli bir şekilde çalışan, yemek tariflerini listeleyip detaylarını görüntüleyebileceğiniz bir uygulamadır.
 
@@ -15,7 +15,7 @@ npm run dev
 
 - **React** - Kullanıcı arayüzünü oluşturmak için
 - **Tailwind CSS** - Hızlı ve özelleştirilebilir stiller için
-- - **TypeScript** - Tip kontrolü sağlamak için
+- **TypeScript** - Tip kontrolü sağlamak için
 
 ## 📋 Özellikler
 
